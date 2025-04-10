@@ -1,14 +1,8 @@
 #EXTM3U
 #EXTINF:-1 ,- RP ROCK
 http://listen.radionomy.com:80/NETROCK101THEANIMAL
-#EXTINF:-1 ,- RP ROCK
-http://stream.radioparadise.com/rock-flacm
 #EXTINF:-1 ,- PARTY VIBE RADIO :  ALTERNATIVE ROCK
 http://94.130.242.5:8032/stream
-#EXTINF:-1 ,- BDPST ROCK Radio
-http://s2.audiostream.hu:8091/bdpstrock_FLAC
-#EXTINF:-1 ,- Punkrockers Radio
-https://stream.punkrockers-radio.de:8443/prr.flac
 #EXTINF:-1 ,- RP ROCK
 http://sc2.radiocaroline.net:8040/stream/1/
 #EXTINF:-1 ,- RP ROCK
@@ -25,8 +19,6 @@ http://145.14.14.93:9034/stream/1/
 http://158.69.114.190:8065/stream/1/
 #EXTINF:-1 ,- RP ROCK
 http://s39.myradiostream.com:11590/stream/1/
-#EXTINF:-1 ,- RP ROCK
-http://178.253.200.250:8180
 #EXTINF:-1 ,- RP ROCK
 http://193.0.98.66:8005/stream/1/
 #EXTINF:-1 ,- RP ROCK
@@ -50,8 +42,6 @@ http://78.129.202.200:10568/stream/1/
 #EXTINF:-1 ,- RP ROCK
 http://108.163.245.230:8100/stream/1/
 #EXTINF:-1 ,- RP ROCK
-http://live.radyotvonline.com:8090
-#EXTINF:-1 ,- RP ROCK
 http://hades.cdnstream.com/1074_128
 #EXTINF:-1 ,- RP ROCK
 http://kathy.torontocast.com:2820/stream/1/
@@ -59,8 +49,6 @@ http://kathy.torontocast.com:2820/stream/1/
 http://stream-bg-01.radiotangra.com:8000/Tangra-high
 #EXTINF:-1 ,- RP ROCK
 http://jenny.torontocast.com:8028/stream/1/
-#EXTINF:-1 ,- RP ROCK
-http://live9.avf.ch:8000/ipmusicslowaacp96
 #EXTINF:-1 ,- RP ROCK
 http://naxos.cdnstream.com/1255_128
 #EXTINF:-1 ,- RP ROCK
@@ -72,13 +60,9 @@ http://209.9.238.6:6042
 #EXTINF:-1 ,- RP ROCK
 http://live.antenne.at:80/arr
 #EXTINF:-1 ,- RP ROCK
-http://radio.studiob.rs:8004
-#EXTINF:-1 ,- RP ROCK
 http://eco.onestreaming.com:8173/stream/1/
 #EXTINF:-1 ,- RP ROCK
 http://www.suenas.net:8090/pobrejohnny
-#EXTINF:-1 ,- RP ROCK
-http://live7.avf.ch:8000/ipmusicaacplus96
 #EXTINF:-1 ,- RP ROCK
 http://stream.ueteknik.se:8000/stream/10/
 #EXTINF:-1 ,- RP ROCK
@@ -154,11 +138,7 @@ http://ice1.somafm.com/illstreet-128-mp3
 #EXTINF:-1 ,- LOUNGE Radio
 http://hestia.cdnstream.com/1256_128
 #EXTINF:-1 ,- LOUNGE Radio
-http://streaming.smartradio.ch:8010/stream
-#EXTINF:-1 ,- LOUNGE Radio
 http://5.35.214.196:8000/stream/1/
-#EXTINF:-1 ,- LOUNGE Radio
-https://nos.radio.br/stream/2/
 #EXTINF:-1 ,- LOUNGE Radio
 https://listen.openstream.co/6273/audio
 #EXTINF:-1 ,- LOUNGE Radio
@@ -200,6 +180,8 @@ http://radiofg.impek.com/fgc
 #EXTINF:-1 ,- LOUNGE Radio
 http://193.33.170.218:8000/RoyalLounge
 #EXTINF:-1 ,- CHILLOUT Radio
+http://hirschmilch.de:7000/stream/4/
+#EXTINF:-1 ,- CHILLOUT Radio
 http://198.58.98.83:8193/stream/1/
 #EXTINF:-1 ,- CHILLOUT Radio
 http://cast.magicstreams.gr:9125/stream/1/
@@ -211,8 +193,6 @@ http://5.39.82.157:8054/stream/1/
 http://komplex2.psyradio.org:8020/stream/1/
 #EXTINF:-1 ,- CHILLOUT Radio
 http://46.105.111.94:8024/stream/1/
-#EXTINF:-1 ,- CHILLOUT Radio
-http://radio.kuums.lv:5555/stream/1/
 #EXTINF:-1 ,- CHILLOUT Radio
 http://channels.dinamo.fm/legacy-mp3
 #EXTINF:-1 ,- CHILLOUT Radio
@@ -231,8 +211,6 @@ https://listen.openstream.co/6273/audio
 http://stream.laut.fm/noise
 #EXTINF:-1 ,- CHILLOUT Radio
 http://s01.toksyna.fm:8050/stream/1/
-#EXTINF:-1 ,- CHILLOUT Radio
-https://mp3channels.webradio.antenne.de/chillout.aac
 #EXTINF:-1 ,- CHILLOUT Radio
 https://radio4.cdm-radio.com:18020/stream64k-AAC-Chill
 #EXTINF:-1 ,- CHILLOUT Radio
@@ -264,8 +242,6 @@ https://orf-live.ors-shoutcast.at/tir-q2a
 #EXTINF:-1 ,- 80S Radio
 https://orf-live.ors-shoutcast.at/vbg-q2a
 #EXTINF:-1 ,- 80S Radio
-http://cast42.sitehosting.com.br:8010/stream/1/
-#EXTINF:-1 ,- 80S Radio
 https://centova.euroti.com.br:20001/stream/1/
 #EXTINF:-1 ,- 80S Radio
 http://nr6.newradio.it:9182/stream/1/
@@ -273,8 +249,6 @@ http://nr6.newradio.it:9182/stream/1/
 http://212.30.80.195:8064/stream/1/
 #EXTINF:-1 ,- 80S Radio
 http://jenny.torontocast.com:8142/stream/1/
-#EXTINF:-1 ,- 80S Radio
-http://109.206.96.34:8040
 #EXTINF:-1 ,- 80S Radio
 http://hydra.cdnstream.com:80/1521_128
 #EXTINF:-1 ,- 80S Radio
@@ -284,13 +258,9 @@ http://51.75.170.46:6191/stream/1/
 #EXTINF:-1 ,- 80S Radio
 http://tuner.goldfm.de:80
 #EXTINF:-1 ,- 80S Radio
-http://live9.avf.ch:8000/ipmusicslowaacp96
-#EXTINF:-1 ,- 80S Radio
 http://naxos.cdnstream.com/1255_128
 #EXTINF:-1 ,- 80S Radio
 http://ares5.radiochoice.net/1027_a080smetal64k
-#EXTINF:-1 ,- 80S Radio
-http://live7.avf.ch:8000/ipmusicaacplus96
 #EXTINF:-1 ,- 80S Radio
 http://stream.laut.fm/just80s_maximal
 #EXTINF:-1 ,- 80S Radio
@@ -306,10 +276,6 @@ http://ice1.somafm.com/u80s-128-mp3
 #EXTINF:-1 ,- 80S Radio
 http://bigrradio.cdnstream1.com/5117_128
 #EXTINF:-1 ,- 80S Radio
-http://nr11.newradio.it:8116/stream/1/
-#EXTINF:-1 ,- 80S Radio
-http://216.8.167.190:9000
-#EXTINF:-1 ,- 80S Radio
 http://listen.011fm.com:80/stream05
 #EXTINF:-1 ,- 80S Radio
 http://54.36.89.71:8742/stream/1/
@@ -320,19 +286,11 @@ http://176.31.98.109:12508/stream/1/
 #EXTINF:-1 ,- 80S Radio
 http://s22.myradiostream.com:7728/stream/1/
 #EXTINF:-1 ,- 80S Radio
-http://live7.avf.ch:8000/ipmusic320
-#EXTINF:-1 ,- 80S Radio
 http://158.69.227.214:8113/stream/1/
 #EXTINF:-1 ,- 80S Radio
 http://rs8-krk2-cyfronet.rmfstream.pl/80S
 #EXTINF:-1 ,- 80S Radio
-http://live7.avf.ch:8000/ipmusicslow320
-#EXTINF:-1 ,- 80S Radio
 http://91.121.38.216:8016/stream/1/
-#EXTINF:-1 ,- 80S Radio
-http://listen.shoutcast.com/classic-rockflorida
-#EXTINF:-1 ,- 80S Radio
-http://stream.laut.fm/fun80sfm
 #EXTINF:-1 ,- 80S Radio
 http://81.92.237.83:80/stream/4/
 #EXTINF:-1 ,- 80S Radio
