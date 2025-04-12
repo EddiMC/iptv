@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1 ,Поп - 90's Gold
+https://pub0202.101.ru:8443/stream/pro/aac/64/75
+#EXTINF:-1 ,Поп - 90's Pop
+https://pub0202.101.ru:8443/stream/pro/aac/64/130
+#EXTINF:-1 ,1 FM - A List 80s
+http://strm112.1.fm/back280s_mobile_mp3
+#EXTINF:-1 ,1 FM - All Euro 80s
+http://strm112.1.fm/80s_90s_mobile_mp3
+#EXTINF:-1 ,CENTER 80s
+http://212.30.80.195:8064/stream/1/
+#EXTINF:-1 ,Classic Hits 109 - 70s,80s,90s
+http://jenny.torontocast.com:8142/stream/1/
+#EXTINF:-1 ,GOLD FM - Die Größten Evergreens!
+http://tuner.goldfm.de:80
+#EXTINF:-1 ,Retro 80s Radio
+http://158.69.227.214:8113/stream/1/
+#EXTINF:-1 ,80s Hitradio Amsterdam
+http://s22.myradiostream.com:7728/stream/1/
+#EXTINF:-1 ,AceRadio-The Awesome 80s Channel
+http://bigrradio.cdnstream1.com/5117_128
+#EXTINF:-1 ,Поп - Golden 70's
+https://pub0202.101.ru:8443/stream/pro/aac/64/192
+#EXTINF:-1 ,Поп - Happy Hours
+https://pub0202.101.ru:8443/stream/pro/aac/64/273
+#EXTINF:-1 ,Поп - Love Songs
+https://pub0202.101.ru:8443/stream/pro/aac/64/29
+#EXTINF:-1 ,Поп - Mainstream
+https://pub0202.101.ru:8443/stream/pro/aac/64/87
+#EXTINF:-1 ,Поп - Radio 101 Classics
+https://pub0202.101.ru:8443/stream/pro/aac/64/283
+#EXTINF:-1 ,1 FM - Dance One
+http://strm112.1.fm/dance_mobile_mp3
 #EXTINF:-1 ,Relaxing Jazz Radio
 http://stream-02-eu.relaxingjazz.com/stream/1/
 #EXTINF:-1 ,Tampa Bay
@@ -11,8 +43,6 @@ http://54.38.43.201:8039/stream-192kmp3-BaySmoothJazz
 https://vm.motionfm.com/motiontwo_free
 #EXTINF:-1 ,McQsJazz.com
 https://streamingv2.shoutcast.com/mcqsjazzcom
-#EXTINF:-1 ,Power Smooth Jazz
-https://listen.powerapp.com.tr/powersmoothjazz/abr/playlist.m3u8
 #EXTINF:-1 ,GotRadio - Jazz So Smooth
 http://gr02.cdnstream.com:8460
 #EXTINF:-1 ,1FM - Sax4Love
@@ -21,32 +51,10 @@ https://strmreg.1.fm/sax4ever_mobile_mp3
 http://listen2.myradio24.com:9000/8226
 #EXTINF:-1 ,Groove Salad [SomaFM]
 http://ice3.somafm.com/groovesalad-128-aac
-#EXTINF:-1 ,Psyndora Chillout
-http://cast.magicstreams.gr:9125/stream
-#EXTINF:-1 ,verdure.net
-http://air.verdure.net:8881/radio/192
 #EXTINF:-1 ,Chill (Frisky Radio)
 http://chill.friskyradio.com/friskychill_mp3_high
-#EXTINF:-1 ,Verdure Station
-http://air.verdure.net:8881/radio/192/
 #EXTINF:-1 ,Chillout (Psy Radio)
 http://streamer.psyradio.org:8020/;
-#EXTINF:-1 ,Journeyscapes
-http://eagle.streemlion.com:4580/stream
-#EXTINF:-1 ,Metal Detector
-http://ice3.somafm.com/metal-128-mp3
-#EXTINF:-1 ,CORE RADIO!
-http://194.58.97.117:8000/coreradio
-#EXTINF:-1 ,Metal FM
-https://metal-fm-com.stream.laut.fm/metal-fm-com
-#EXTINF:-1 ,Metal Messiah Radio
-http://185.80.220.12:8010/stream/1/
-#EXTINF:-1 ,Prog Palace Radio
-https://cheetah.streemlion.com:4775/stream
-#EXTINF:-1 ,Metal Only Radio
-http://nordic.streampanel.cloud/stream
-#EXTINF:-1 ,World Music - Reggae
-https://pub0202.101.ru:8443/stream/pro/aac/64/88
 #EXTINF:-1 ,Джаз / Блюз - Blues
 https://pub0202.101.ru:8443/stream/pro/aac/64/76
 #EXTINF:-1 ,Джаз / Блюз - Funk & Soul
@@ -57,6 +65,12 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/85
 https://pub0202.101.ru:8443/stream/trust/mp3/128/31
 #EXTINF:-1 ,Джаз / Блюз - Swing
 https://pub0202.101.ru:8443/stream/pro/aac/64/90
+#EXTINF:-1 ,1 FM - Blues
+http://strm112.1.fm/blues_mobile_mp3
+#EXTINF:-1 ,1 FM - Chillout Lounge
+http://strm112.1.fm/chilloutlounge_mobile_mp3
+#EXTINF:-1 ,1 FM - Chillout Costa Del Ma
+http://strm112.1.fm/costadelmarchillout_mobile_mp3
 #EXTINF:-1 ,Каналы Relax FM - Relax Gold
 https://pub0202.101.ru:8443/stream/trust/mp3/128/266
 #EXTINF:-1 ,Каналы Relax FM - Relax Jazz
@@ -67,44 +81,8 @@ https://pub0202.101.ru:8443/stream/trust/mp3/128/265
 https://pub0202.101.ru:8443/stream/trust/mp3/128/267
 #EXTINF:-1 ,Каналы Relax FM - Relax Nature
 https://pub0202.101.ru:8443/stream/trust/mp3/128/263
-#EXTINF:-1 ,Классика - Классическая Музыка
-https://pub0202.101.ru:8443/stream/pro/aac/64/98
-#EXTINF:-1 ,Классика - Опера
-https://pub0202.101.ru:8443/stream/pro/aac/64/96
-#EXTINF:-1 ,Поп - 90's Gold
-https://pub0202.101.ru:8443/stream/pro/aac/64/75
-#EXTINF:-1 ,Поп - 90's Pop
-https://pub0202.101.ru:8443/stream/pro/aac/64/130
-#EXTINF:-1 ,Поп - Golden 70's
-https://pub0202.101.ru:8443/stream/pro/aac/64/192
-#EXTINF:-1 ,Поп - Happy Hours
-https://pub0202.101.ru:8443/stream/pro/aac/64/273
-#EXTINF:-1 ,Поп - Love Songs
-https://pub0202.101.ru:8443/stream/pro/aac/64/29
-#EXTINF:-1 ,Поп - Mainstream
-https://pub0202.101.ru:8443/stream/pro/aac/64/87
-#EXTINF:-1 ,Поп - Radio 101 Classics
-https://pub0202.101.ru:8443/stream/pro/aac/64/283
-#EXTINF:-1 ,Рок - Alternative
-https://pub0202.101.ru:8443/stream/pro/aac/64/176
-#EXTINF:-1 ,Рок - Indie
-https://pub0202.101.ru:8443/stream/pro/aac/64/152
-#EXTINF:-1 ,Рок - Instrumental Rock
-https://pub0202.101.ru:8443/stream/pro/aac/64/183
-#EXTINF:-1 ,Рок - Metal
-https://pub0202.101.ru:8443/stream/pro/aac/64/211
-#EXTINF:-1 ,Рок - Modern Rock
-https://pub0202.101.ru:8443/stream/pro/aac/64/16
-#EXTINF:-1 ,Рок - Rock Hits
-https://pub0202.101.ru:8443/stream/pro/aac/64/160
-#EXTINF:-1 ,Рок - Rock Remakes
-https://pub0202.101.ru:8443/stream/pro/aac/64/71
-#EXTINF:-1 ,Рок - Rock'n'Roll
-https://pub0202.101.ru:8443/stream/pro/aac/64/89
-#EXTINF:-1 ,Рок - Route 101
-https://pub0202.101.ru:8443/stream/pro/aac/64/185
-#EXTINF:-1 ,Рок - Thrash
-https://pub0202.101.ru:8443/stream/pro/aac/64/73
+#EXTINF:-1 ,World Music - Reggae
+https://pub0202.101.ru:8443/stream/pro/aac/64/88
 #EXTINF:-1 ,Фоновая - Chillоut
 https://pub0201.101.ru/stream/trust/mp3/128/24
 #EXTINF:-1 ,Фоновая - Easy Listening
@@ -121,22 +99,44 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/364
 https://pub0202.101.ru:8443/stream/pro/aac/64/32
 #EXTINF:-1 ,Фоновая - Песни о любви
 https://pub0202.101.ru:8443/stream/pro/aac/64/325
-#EXTINF:-1 ,1 FM - All Euro 80s
-http://strm112.1.fm/80s_90s_mobile_mp3
 #EXTINF:-1 ,1 FM - Adore Vocal Jazz
 http://strm112.1.fm/ajazz_mobile_mp3
-#EXTINF:-1 ,1 FM - A List 80s
-http://strm112.1.fm/back280s_mobile_mp3
-#EXTINF:-1 ,1 FM - Blues
-http://strm112.1.fm/blues_mobile_mp3
-#EXTINF:-1 ,1 FM - Chillout Lounge
-http://strm112.1.fm/chilloutlounge_mobile_mp3
-#EXTINF:-1 ,1 FM - Chillout Costa Del Ma
-http://strm112.1.fm/costadelmarchillout_mobile_mp3
+#EXTINF:-1 ,Классика - Классическая Музыка
+https://pub0202.101.ru:8443/stream/pro/aac/64/98
+#EXTINF:-1 ,Классика - Опера
+https://pub0202.101.ru:8443/stream/pro/aac/64/96
+#EXTINF:-1 ,Рок - Rock Hits
+https://pub0202.101.ru:8443/stream/pro/aac/64/160
 #EXTINF:-1 ,1 FM - Classic Rock Replay
 http://strm112.1.fm/crock_mobile_mp3
-#EXTINF:-1 ,1 FM - Dance One
-http://strm112.1.fm/dance_mobile_mp3
+#EXTINF:-1 ,Рок - Rock'n'Roll
+https://pub0202.101.ru:8443/stream/pro/aac/64/89
+#EXTINF:-1 ,CORE RADIO!
+http://194.58.97.117:8000/coreradio
+#EXTINF:-1 ,Рок - Alternative
+https://pub0202.101.ru:8443/stream/pro/aac/64/176
+#EXTINF:-1 ,Рок - Modern Rock
+https://pub0202.101.ru:8443/stream/pro/aac/64/16
+#EXTINF:-1 ,Metal Detector
+http://ice3.somafm.com/metal-128-mp3
+#EXTINF:-1 ,Metal FM
+https://metal-fm-com.stream.laut.fm/metal-fm-com
+#EXTINF:-1 ,Metal Messiah Radio
+http://185.80.220.12:8010/stream/1/
+#EXTINF:-1 ,Prog Palace Radio
+https://cheetah.streemlion.com:4775/stream
+#EXTINF:-1 ,Metal Only Radio
+http://nordic.streampanel.cloud/stream
+#EXTINF:-1 ,Рок - Indie
+https://pub0202.101.ru:8443/stream/pro/aac/64/152
+#EXTINF:-1 ,Рок - Instrumental Rock
+https://pub0202.101.ru:8443/stream/pro/aac/64/183
+#EXTINF:-1 ,Рок - Metal
+https://pub0202.101.ru:8443/stream/pro/aac/64/211
+#EXTINF:-1 ,Рок - Rock Remakes
+https://pub0202.101.ru:8443/stream/pro/aac/64/71
+#EXTINF:-1 ,Рок - Thrash
+https://pub0202.101.ru:8443/stream/pro/aac/64/73
 
 #EXTINF:-1 ,- RP ROCK
 http://listen.radionomy.com:80/NETROCK101THEANIMAL
@@ -367,8 +367,6 @@ http://radio4.vip-radios.fm:8054/stream-128kmp3-BuddhaBeach
 #EXTINF:-1 ,- 80S Radio
 https://orf-live.ors-shoutcast.at/oe3-q2a
 #EXTINF:-1 ,- 80S Radio
-http://live.focusfm.ro:8000/stream/1/
-#EXTINF:-1 ,- 80S Radio
 https://orf-live.ors-shoutcast.at/wie-q2a
 #EXTINF:-1 ,- 80S Radio
 http://212.30.80.195:8016/stream/1/
@@ -393,8 +391,6 @@ http://91.232.4.33:8018/stream/1/
 #EXTINF:-1 ,- 80S Radio
 http://51.75.170.46:6191/stream/1/
 #EXTINF:-1 ,- 80S Radio
-http://tuner.goldfm.de:80
-#EXTINF:-1 ,- 80S Radio
 http://naxos.cdnstream.com/1255_128
 #EXTINF:-1 ,- 80S Radio
 http://ares5.radiochoice.net/1027_a080smetal64k
@@ -411,8 +407,6 @@ http://5.135.154.66:33604/stream/1/
 #EXTINF:-1 ,- 80S Radio
 http://ice1.somafm.com/u80s-128-mp3
 #EXTINF:-1 ,- 80S Radio
-http://bigrradio.cdnstream1.com/5117_128
-#EXTINF:-1 ,- 80S Radio
 http://listen.011fm.com:80/stream05
 #EXTINF:-1 ,- 80S Radio
 http://54.36.89.71:8742/stream/1/
@@ -420,10 +414,6 @@ http://54.36.89.71:8742/stream/1/
 http://streamplus36.leonex.de:24844/stream/1/
 #EXTINF:-1 ,- 80S Radio
 http://176.31.98.109:12508/stream/1/
-#EXTINF:-1 ,- 80S Radio
-http://s22.myradiostream.com:7728/stream/1/
-#EXTINF:-1 ,- 80S Radio
-http://158.69.227.214:8113/stream/1/
 #EXTINF:-1 ,- 80S Radio
 http://rs8-krk2-cyfronet.rmfstream.pl/80S
 #EXTINF:-1 ,- 80S Radio
