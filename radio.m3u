@@ -3,10 +3,6 @@
 https://pub0202.101.ru:8443/stream/pro/aac/64/75
 #EXTINF:-1 ,1 FM - A List 80s
 http://strm112.1.fm/back280s_mobile_mp3
-#EXTINF:-1 ,CENTER 80s
-http://212.30.80.195:8064/stream/1/
-#EXTINF:-1 ,Classic Hits 109 - 70s,80s,90s
-http://jenny.torontocast.com:8142/stream/1/
 #EXTINF:-1 ,GOLD FM - Die Größten Evergreens!
 http://tuner.goldfm.de:80
 #EXTINF:-1 ,Retro 80s Radio
@@ -103,6 +99,10 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/98
 https://pub0202.101.ru:8443/stream/pro/aac/64/96
 #EXTINF:-1 ,Рок - Rock Hits
 https://pub0202.101.ru:8443/stream/pro/aac/64/160
+#EXTINF:-1 ,CENTER 80s
+http://212.30.80.195:8064/stream/1/
+#EXTINF:-1 ,Classic Hits 109 - 70s,80s,90s
+http://jenny.torontocast.com:8142/stream/1/
 #EXTINF:-1 ,1 FM - Classic Rock Replay
 http://strm112.1.fm/crock_mobile_mp3
 #EXTINF:-1 ,Рок - Rock'n'Roll
@@ -133,7 +133,6 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/211
 https://pub0202.101.ru:8443/stream/pro/aac/64/71
 #EXTINF:-1 ,Рок - Thrash
 https://pub0202.101.ru:8443/stream/pro/aac/64/73
-
 #EXTINF:-1 ,- RP ROCK
 http://listen.radionomy.com:80/NETROCK101THEANIMAL
 #EXTINF:-1 ,- PARTY VIBE RADIO :  ALTERNATIVE ROCK
