@@ -19,6 +19,10 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/29
 https://pub0202.101.ru:8443/stream/pro/aac/64/87
 #EXTINF:-1 ,Поп - Radio 101 Classics
 https://pub0202.101.ru:8443/stream/pro/aac/64/283
+#EXTINF:-1 ,CENTER 80s
+http://212.30.80.195:8064/stream/1/
+#EXTINF:-1 ,Classic Hits 109 - 70s,80s,90s
+http://jenny.torontocast.com:8142/stream/1/
 #EXTINF:-1 ,1 FM - Dance One
 http://strm112.1.fm/dance_mobile_mp3
 #EXTINF:-1 ,Relaxing Jazz Radio
@@ -97,10 +101,6 @@ https://pub0202.101.ru:8443/stream/pro/aac/64/98
 https://pub0202.101.ru:8443/stream/pro/aac/64/96
 #EXTINF:-1 ,Рок - Rock Hits
 https://pub0202.101.ru:8443/stream/pro/aac/64/160
-#EXTINF:-1 ,CENTER 80s
-http://212.30.80.195:8064/stream/1/
-#EXTINF:-1 ,Classic Hits 109 - 70s,80s,90s
-http://jenny.torontocast.com:8142/stream/1/
 #EXTINF:-1 ,1 FM - Classic Rock Replay
 http://strm112.1.fm/crock_mobile_mp3
 #EXTINF:-1 ,Рок - Rock'n'Roll
