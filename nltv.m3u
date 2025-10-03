@@ -55,44 +55,18 @@ http://tv.isp-nl.ru:9001/play/f01o/index.m3u8
 http://tv.isp-nl.ru:9900/play/a050/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a057.png",Sony Sci-Fi
 http://tv.isp-nl.ru:9900/play/a057/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a04b.png",Тайна
-http://tv.isp-nl.ru:9900/play/a04b/index.m3u8
-#EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a00o.png",Animal Planet
-http://tv.isp-nl.ru:9900/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a00m.png",Discovery Channel
-http://tv.isp-nl.ru:9900/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a00n.png",Discovery Science
-http://tv.isp-nl.ru:9900/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a01q.png",History HD
-http://tv.isp-nl.ru:9900/play/a01q/index.m3u8
-#EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a00p.png",National Geographic
-http://tv.isp-nl.ru:9900/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a048.png",Нано
-http://tv.isp-nl.ru:9900/play/a048/index.m3u8
 #EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a03t.png",Нано HD
 http://tv.isp-nl.ru:9900/play/a03t/index.m3u8
 #EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a00z.png",Наука
 http://tv.isp-nl.ru:9900/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a01v.png",Океан HD
-http://tv.isp-nl.ru:9900/play/a01v/index.m3u8
-#EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a01o.png",Просвещение
-http://tv.isp-nl.ru:9900/play/a01o/index.m3u8
 #EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a03l.png",Т24
 http://tv.isp-nl.ru:9900/play/a03l/index.m3u8
 #EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a00e.png",Телепутешествия
 http://tv.isp-nl.ru:9900/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a01s.png",Viasat Explore
-http://tv.isp-nl.ru:9900/play/a01s/index.m3u8
-#EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a01t.png",Viasat History
-http://tv.isp-nl.ru:9900/play/a01t/index.m3u8
-#EXTINF:-1 group-title="Образование" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a01u.png",Viasat Nature
-http://tv.isp-nl.ru:9900/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a00g.png",Зоо ТВ
 http://tv.isp-nl.ru:9900/play/a00g/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a03o.png",Живая природа HD
 http://tv.isp-nl.ru:9900/play/a03o/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a00y.png",Моя Планета
-http://tv.isp-nl.ru:9900/play/a00y/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a03p.png",Глазами туриста HD
 http://tv.isp-nl.ru:9900/play/a03p/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a04s.png",Travel+Adventure HD
@@ -105,8 +79,6 @@ F:-1 group-title="Спорт" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-lo
 http://tv.isp-nl.ru:9900/play/a05a/index.m3u8
 p-title="Спорт" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a03k.png",Старт HD
 http://tv.isp-nl.ru:9900/play/a03k/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a01p.png",7tv
-http://tv.isp-nl.ru:9900/play/a01p/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a022.png",1HD Music Television
 http://tv.isp-nl.ru:9900/play/a022/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a007.png",BRIDGE
@@ -137,7 +109,6 @@ http://tv.isp-nl.ru:9900/play/a01j/index.m3u8
 http://tv.isp-nl.ru:9900/play/a02d/index.m3u8
 #EXTINF:-1 group-title="Прочие" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a04q.png",Big Planet HD
 http://tv.isp-nl.ru:9900/play/a04q/index.m3u8
-
 #EXTINF:-1 group-title="Прочие" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a01n.png",English Class HD
 http://tv.isp-nl.ru:9900/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Прочие" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a04x.png",Диалоги о рыбалке HD
@@ -156,8 +127,6 @@ http://tv.isp-nl.ru:9900/play/a029/index.m3u8
 http://tv.isp-nl.ru:9900/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Прочие" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a00h.png",Рыболов
 http://tv.isp-nl.ru:9900/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Прочие" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a00m.png",САПФИР
-http://tv.isp-nl.ru:9900/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Прочие" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a03x.png",Silk Way HD
 http://tv.isp-nl.ru:9900/play/a03x/index.m3u8
 #EXTINF:-1 group-title="Прочие" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a03c.png",SilkWay Cinema HD
