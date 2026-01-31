@@ -75,7 +75,7 @@ http://tv.isp-nl.ru:9900/play/a04s/index.m3u8
 http://tv.isp-nl.ru:9900/play/a00d/index.m3u8
 #EXTINF:-1 group-title="Эфирные каналы" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a02s.png",Матч!
 http://tv.isp-nl.ru:9900/play/a02s/index.m3u8
-F:-1 group-title="Спорт" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a05a.png",Футбол
+#EXTINF::-1 group-title="Спорт" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a05a.png",Футбол
 http://tv.isp-nl.ru:9900/play/a05a/index.m3u8
 p-title="Спорт" tvg-logo="http://tv.isp-nl.ru:9900/playlist/tvg-logo/a03k.png",Старт HD
 http://tv.isp-nl.ru:9900/play/a03k/index.m3u8
